@@ -39,3 +39,5 @@ The BibTeX entry intentionally omits unknown DOI, volume, and page numbers. Upda
 The conference label follows the reference layout beneath the affiliations. Section headings are centered with no uppercase kicker labels. Both qualitative panels display all supplied image parts as a single continuous figure; the ZIP did not contain an unsplit original. Enlargement displays all parts together.
 
 The interface palette is muted indigo blue; original research figures retain their original colors.
+
+All three experiment tables are directly visible. Each is followed by numerical comparisons and interpretation grounded in the manuscript.
